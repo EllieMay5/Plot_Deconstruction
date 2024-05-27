@@ -10,3 +10,4 @@ ABSTRACT: Species occurrence records are vital data streams in marine conservati
 
 ![Screenshot 2024-05-27 at 7 23 20 pm](https://github.com/EllieMay5/Plot_Deconstruction/assets/169666474/713f1a89-0a41-4f73-8f2f-b4be6fe13764)
 <img width="770" alt="Screenshot 2024-05-27 at 7 28 59 pm" src="https://github.com/EllieMay5/Plot_Deconstruction/assets/169666474/4522a9ba-b13b-4d8d-8d37-72c360b23c20">
+![plotdeconstruction](https://github.com/EllieMay5/Plot_Deconstruction/assets/169666474/41b4042e-1a7c-4eec-8f80-7c8974dea9b4)
